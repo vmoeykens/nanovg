@@ -25,9 +25,7 @@
 #define FONTSTASH_IMPLEMENTATION
 #include "fontstash.h"
 
-#if defined(NVG_STB_IMAGE_IMPLEMENTATION)
-#  define STB_IMAGE_IMPLEMENTATION
-#endif
+#define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"
 
 #ifdef _MSC_VER
