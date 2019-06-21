@@ -1,5 +1,6 @@
 //
 // Copyright (c) 2013 Mikko Mononen memon@inside.org
+// Modified by Vincent Moeykens for Beta Technologies vincent@beta.team
 //
 // This software is provided 'as-is', without any express or implied
 // warranty.  In no event will the authors be held liable for any damages
